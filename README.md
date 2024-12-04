@@ -19,6 +19,7 @@ Here are some of the languages and tools I work with:
 - Bootstrap
 - JavaScript
 - Node.js
+- Java
 - Express.js
 - HTML5
 - CSS3
