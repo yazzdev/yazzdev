@@ -14,14 +14,10 @@ I am a graduate of the Informatics Engineering program at Universitas Komputer I
 ### Languages and Tools
 Here are some of the languages and tools I work with:
 
-- Git
-- HTML5 / CSS3
-- JavaScript
-- Node.js
-- Java
-- Express.js
-- PostgreSQL
-- MySQL
+- Programming Languages: HTML5/CSS3, JavaScript, PHP, Java
+- Frameworks: Node.js, Express.js, Bootstrap
+- Databases: MySQL, PostgreSQL
+- Tools: Git, Katalon, JMeter, SonarQube, Postman
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions!
 
