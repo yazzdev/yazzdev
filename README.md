@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm thrilled to have you here. 
 
 ### About Me
-I am a graduate of the Informatics Engineering program at Universitas Komputer Indonesia. With experience in developing various projects, I have gained an understanding of using various frameworks, languages, and tools in web development. My expertise lies in Back-End development, and I am currently focusing on mastering Java and enhancing my skills in backend technologies.
+I am a graduate of the Informatics Engineering program at Universitas Komputer Indonesia and a graduate of Binar Academy Bootcamp Back End JavaScript Web Development. With experience in developing various projects, I have gained an understanding of using various frameworks, languages, and tools in web development. My expertise lies in Back-End development, and I am currently focusing on mastering Java and enhancing my skills in backend technologies.
 
 ### What I'm Up To
 - 🔬 I’m currently working on exciting projects to sharpen my skills.
