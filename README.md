@@ -1,24 +1,27 @@
-## Hi there! 👋
-
-Welcome to my GitHub profile! I'm thrilled to have you here. 
+## "Java is my core, backend is my game."
 
 ### About Me
-I am a graduate of the Informatics Engineering program at Universitas Komputer Indonesia and a graduate of Binar Academy Bootcamp Back End JavaScript Web Development. With experience in developing various projects, I have gained an understanding of using various frameworks, languages, and tools in web development. My expertise lies in Back-End development, and I am currently focusing on mastering Java and enhancing my skills in backend technologies.
+I'm a graduate of Informatics Engineering at UNIKOM and Binar Academy's Back End JavaScript Bootcamp. My strength is in backend development, especially with JavaScript & Java.
 
 ### What I'm Up To
-- 🔬 I’m currently working on exciting projects to sharpen my skills.
-- 🌱 I’m currently learning Java and diving deeper into backend development.
-- 👯 I’m looking to collaborate on open-source projects that make a positive impact.
-- 📞 Ask me about anything related to backend development, Java, or Node.js. I'm here to help!
+🔧 Improving my Java and backend skills
+🤝 Open to collaboration on impactful open-source projects
+💬 Feel free to ask me about Java, backend, or Node.js
 
-### Languages and Tools
-Here are some of the languages and tools I work with:
-
-- Programming Languages: HTML5/CSS3, JavaScript, PHP, Java
-- Frameworks: Node.js, Express.js, Bootstrap
-- Databases: MySQL, PostgreSQL
-- Tools: Git, Katalon, JMeter, SonarQube, Postman
+### Tech Stack
+Languages: Java, JavaScript, HTML/CSS
+Frameworks: Node.js, Express.js, Bootstrap
+Databases: MySQL, PostgreSQL
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions!
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 Happy coding! 🚀
